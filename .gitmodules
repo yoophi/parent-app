@@ -1,0 +1,6 @@
+[submodule "submodule-one"]
+	path = submodule-one
+	url = git@github.com:yoophi/submodule-one.git
+[submodule "submodule-two"]
+	path = submodule-two
+	url = git@github.com:yoophi/submodule-two.git
